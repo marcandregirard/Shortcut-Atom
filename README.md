@@ -5,6 +5,8 @@ Shortcut for Atom that I use
 
 Ctrl + P  -> open a file in the project
 
-Alt - Ctrl + Up/Down -> Column selector
+Alt + Ctrl + Up/Down -> Column selector
 
-Ctrl - Shift + k -> delete current line
+Ctrl + Shift + K -> delete current line
+
+Ctrl + Shift + L -> Choose syntax of the file
